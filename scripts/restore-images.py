@@ -2,6 +2,7 @@
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 from urllib.request import Request, urlopen
+from urllib.parse import quote
 from io import BytesIO
 import hashlib,json,time
 from PIL import Image, ImageOps
@@ -15,7 +16,7 @@ def restore(item):
         raise ValueError('Unexpected image source')
     for attempt in range(3):
         try:
-            with urlopen(Request(item['url'],headers={'User-Agent':'Mozilla/5.0'}),timeout=60) as response:
+            with urlopen(Request(quote(item['url'],safe=':/%?=&'),headers={'User-Agent':'Mozilla/5.0'}),timeout=60) as response:
                 data=response.read(30*1024*1024)
             for out in outputs:
                 path=(ROOT/out['path']).resolve()
