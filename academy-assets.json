@@ -1,0 +1,798 @@
+{
+  "https://adlychess.com/wp-content/uploads/2026/01/Ahmed-adly-scaled-1.jpg": {
+    "full": "/assets/academy/aba3958b2fcf11de.webp",
+    "thumb": "/assets/academy/aba3958b2fcf11de-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/Vector.png": {
+    "full": "/assets/academy/77734b34b725015c.webp",
+    "thumb": "/assets/academy/77734b34b725015c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/Sayed-Kandil.png": {
+    "full": "/assets/academy/ebb1a402ed218a4f.webp",
+    "thumb": "/assets/academy/ebb1a402ed218a4f-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/adham-kandil.jpg": {
+    "full": "/assets/academy/5afb10a9b132a526.webp",
+    "thumb": "/assets/academy/5afb10a9b132a526-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/Tawfik.jpg": {
+    "full": "/assets/academy/2df2d85c6b662015.webp",
+    "thumb": "/assets/academy/2df2d85c6b662015-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/cropped-Horse-site-icon.png": {
+    "full": "/assets/academy/c6b924a9eaa6889c.webp",
+    "thumb": "/assets/academy/c6b924a9eaa6889c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/Artboard-1-copy-4.png": {
+    "full": "/assets/academy/3cadaf8d7bb91d49.webp",
+    "thumb": "/assets/academy/3cadaf8d7bb91d49-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/ahmed-mourad-scaled-1.jpg": {
+    "full": "/assets/academy/a8ed8a0852f285f2.webp",
+    "thumb": "/assets/academy/a8ed8a0852f285f2-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/Khaled-hawas-e1671898524792.jpg": {
+    "full": "/assets/academy/6d4b263c9adc0419.webp",
+    "thumb": "/assets/academy/6d4b263c9adc0419-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/2-web.jpg": {
+    "full": "/assets/academy/a5a35e8d4b42db23.webp",
+    "thumb": "/assets/academy/a5a35e8d4b42db23-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2014_alain_08.jpg": {
+    "full": "/assets/academy/709676f626b140df.webp",
+    "thumb": "/assets/academy/709676f626b140df-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/khaled-amin.jpg": {
+    "full": "/assets/academy/7f4e0e44e908babf.webp",
+    "thumb": "/assets/academy/7f4e0e44e908babf-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2014_alain_01.jpg": {
+    "full": "/assets/academy/b1f87879b3f2b56e.webp",
+    "thumb": "/assets/academy/b1f87879b3f2b56e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2014_alain_06.jpg": {
+    "full": "/assets/academy/073db6113284f73f.webp",
+    "thumb": "/assets/academy/073db6113284f73f-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2014_alain_07.jpg": {
+    "full": "/assets/academy/f1ece257c7dd3e57.webp",
+    "thumb": "/assets/academy/f1ece257c7dd3e57-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2014_alain_04.jpg": {
+    "full": "/assets/academy/387d111ef7eee279.webp",
+    "thumb": "/assets/academy/387d111ef7eee279-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/01/morad-magdy.jpg": {
+    "full": "/assets/academy/43d6c660bd6ac0fb.webp",
+    "thumb": "/assets/academy/43d6c660bd6ac0fb-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2014_alain_05.jpg": {
+    "full": "/assets/academy/d324ff3f0c192e1e.webp",
+    "thumb": "/assets/academy/d324ff3f0c192e1e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2014_alain_02.jpg": {
+    "full": "/assets/academy/3509fc9ff11cbb79.webp",
+    "thumb": "/assets/academy/3509fc9ff11cbb79-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2014_alain_09.jpg": {
+    "full": "/assets/academy/29c4d72348484fb5.webp",
+    "thumb": "/assets/academy/29c4d72348484fb5-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_alain_16.jpg": {
+    "full": "/assets/academy/14320d960a8ed8d7.webp",
+    "thumb": "/assets/academy/14320d960a8ed8d7-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_alain_17.jpg": {
+    "full": "/assets/academy/20e1e91528be46bc.webp",
+    "thumb": "/assets/academy/20e1e91528be46bc-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_alain_15.jpg": {
+    "full": "/assets/academy/3f4bf4093a835d33.webp",
+    "thumb": "/assets/academy/3f4bf4093a835d33-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2014_alain_10.jpg": {
+    "full": "/assets/academy/68cace1cf7e96be7.webp",
+    "thumb": "/assets/academy/68cace1cf7e96be7-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_alain_12.jpg": {
+    "full": "/assets/academy/a8e0350d7572a00c.webp",
+    "thumb": "/assets/academy/a8e0350d7572a00c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_alain_14.jpg": {
+    "full": "/assets/academy/b3d99c395eda856d.webp",
+    "thumb": "/assets/academy/b3d99c395eda856d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_alain_13.jpg": {
+    "full": "/assets/academy/316df19f72eee746.webp",
+    "thumb": "/assets/academy/316df19f72eee746-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_alain_11.jpg": {
+    "full": "/assets/academy/fbc3d39d00409674.webp",
+    "thumb": "/assets/academy/fbc3d39d00409674-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_alain_18.jpg": {
+    "full": "/assets/academy/4bc0a915cb24125a.webp",
+    "thumb": "/assets/academy/4bc0a915cb24125a-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_04.jpg": {
+    "full": "/assets/academy/4cba5f43b2947c0c.webp",
+    "thumb": "/assets/academy/4cba5f43b2947c0c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_05.jpg": {
+    "full": "/assets/academy/31a27f12d0b2a0dc.webp",
+    "thumb": "/assets/academy/31a27f12d0b2a0dc-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_02.jpg": {
+    "full": "/assets/academy/7ad3052ed8290abe.webp",
+    "thumb": "/assets/academy/7ad3052ed8290abe-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_06.jpg": {
+    "full": "/assets/academy/05cab95bebdd95f6.webp",
+    "thumb": "/assets/academy/05cab95bebdd95f6-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_03.jpg": {
+    "full": "/assets/academy/4657cc430db3500a.webp",
+    "thumb": "/assets/academy/4657cc430db3500a-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_01.jpg": {
+    "full": "/assets/academy/164af3312a15251a.webp",
+    "thumb": "/assets/academy/164af3312a15251a-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_alain_19.jpg": {
+    "full": "/assets/academy/7f9efe727d2f7b95.webp",
+    "thumb": "/assets/academy/7f9efe727d2f7b95-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_alain_20.jpg": {
+    "full": "/assets/academy/e874c9d235153790.webp",
+    "thumb": "/assets/academy/e874c9d235153790-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_07.jpg": {
+    "full": "/assets/academy/383e02d9dfefec7c.webp",
+    "thumb": "/assets/academy/383e02d9dfefec7c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_11-800x600.jpg": {
+    "full": "/assets/academy/9701991f0bd83a0d.webp",
+    "thumb": "/assets/academy/9701991f0bd83a0d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_12.jpg": {
+    "full": "/assets/academy/a5edc4ae296bbb84.webp",
+    "thumb": "/assets/academy/a5edc4ae296bbb84-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_11.jpg": {
+    "full": "/assets/academy/738a9917aed47b0a.webp",
+    "thumb": "/assets/academy/738a9917aed47b0a-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_10.jpg": {
+    "full": "/assets/academy/9c62a7826bbb9255.webp",
+    "thumb": "/assets/academy/9c62a7826bbb9255-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_14.jpg": {
+    "full": "/assets/academy/a5eb5516387f1e3e.webp",
+    "thumb": "/assets/academy/a5eb5516387f1e3e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_13.jpg": {
+    "full": "/assets/academy/8e180eea1fca059b.webp",
+    "thumb": "/assets/academy/8e180eea1fca059b-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_09.jpg": {
+    "full": "/assets/academy/080637e0b3cf2516.webp",
+    "thumb": "/assets/academy/080637e0b3cf2516-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_08.jpg": {
+    "full": "/assets/academy/bc1368ce4955c598.webp",
+    "thumb": "/assets/academy/bc1368ce4955c598-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2014_alain_03.jpg": {
+    "full": "/assets/academy/54c4b5786e8ba5b8.webp",
+    "thumb": "/assets/academy/54c4b5786e8ba5b8-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2024_2nd_chess_festival_02-e1778600855122.jpg": {
+    "full": "/assets/academy/efa02a640f8078b7.webp",
+    "thumb": "/assets/academy/efa02a640f8078b7-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_15.jpg": {
+    "full": "/assets/academy/d2ab9e2b794a7496.webp",
+    "thumb": "/assets/academy/d2ab9e2b794a7496-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2024_2nd_chess_festival_01.jpg": {
+    "full": "/assets/academy/fdc92fb447647f57.webp",
+    "thumb": "/assets/academy/fdc92fb447647f57-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_17.jpg": {
+    "full": "/assets/academy/c2256529a51b3404.webp",
+    "thumb": "/assets/academy/c2256529a51b3404-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_19.jpg": {
+    "full": "/assets/academy/3c335b24cbd400c4.webp",
+    "thumb": "/assets/academy/3c335b24cbd400c4-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_16.jpg": {
+    "full": "/assets/academy/989f9eaa81911b51.webp",
+    "thumb": "/assets/academy/989f9eaa81911b51-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_20.jpg": {
+    "full": "/assets/academy/3a849c17bd914c79.webp",
+    "thumb": "/assets/academy/3a849c17bd914c79-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2024_2nd_chess_festival_03.jpg": {
+    "full": "/assets/academy/56ebb489ad8584ef.webp",
+    "thumb": "/assets/academy/56ebb489ad8584ef-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2023_expo1_18.jpg": {
+    "full": "/assets/academy/39a7a6cdd7fa685d.webp",
+    "thumb": "/assets/academy/39a7a6cdd7fa685d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2024_2nd_chess_festival_02-e1778600855122-400x300.jpg": {
+    "full": "/assets/academy/d4c742f699a91cac.webp",
+    "thumb": "/assets/academy/d4c742f699a91cac-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_01-800x600.jpg": {
+    "full": "/assets/academy/705be74087e79922.webp",
+    "thumb": "/assets/academy/705be74087e79922-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2024_auc_01-800x600.jpg": {
+    "full": "/assets/academy/115f744472b6c71c.webp",
+    "thumb": "/assets/academy/115f744472b6c71c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2024_2nd_chess_festival_04.jpg": {
+    "full": "/assets/academy/68fd0c0260c6c202.webp",
+    "thumb": "/assets/academy/68fd0c0260c6c202-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_01.jpg": {
+    "full": "/assets/academy/0e7fddcb64ec8b68.webp",
+    "thumb": "/assets/academy/0e7fddcb64ec8b68-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_02.jpg": {
+    "full": "/assets/academy/1866d7d4515b62a3.webp",
+    "thumb": "/assets/academy/1866d7d4515b62a3-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2024_auc_01.jpg": {
+    "full": "/assets/academy/af2c7b7d12b2123a.webp",
+    "thumb": "/assets/academy/af2c7b7d12b2123a-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_03.jpg": {
+    "full": "/assets/academy/0f110e70e919f14d.webp",
+    "thumb": "/assets/academy/0f110e70e919f14d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_04.jpg": {
+    "full": "/assets/academy/fc5a9c7714e620c1.webp",
+    "thumb": "/assets/academy/fc5a9c7714e620c1-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2024_auc_02.jpg": {
+    "full": "/assets/academy/470e0085f12da22e.webp",
+    "thumb": "/assets/academy/470e0085f12da22e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2024_2nd_chess_festival_05.jpg": {
+    "full": "/assets/academy/d45116cf703c4ad3.webp",
+    "thumb": "/assets/academy/d45116cf703c4ad3-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_05.jpg": {
+    "full": "/assets/academy/0a6247fb7279eb76.webp",
+    "thumb": "/assets/academy/0a6247fb7279eb76-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_100.jpg": {
+    "full": "/assets/academy/67e028d681e30b39.webp",
+    "thumb": "/assets/academy/67e028d681e30b39-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_102.jpg": {
+    "full": "/assets/academy/f4538e0fe83ae5fd.webp",
+    "thumb": "/assets/academy/f4538e0fe83ae5fd-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_103.jpg": {
+    "full": "/assets/academy/65976637e0b61810.webp",
+    "thumb": "/assets/academy/65976637e0b61810-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_10.jpg": {
+    "full": "/assets/academy/e1ecf54dd09edbf2.webp",
+    "thumb": "/assets/academy/e1ecf54dd09edbf2-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_08.jpg": {
+    "full": "/assets/academy/ff99c6b8fcf4bd14.webp",
+    "thumb": "/assets/academy/ff99c6b8fcf4bd14-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_101.jpg": {
+    "full": "/assets/academy/3849d52c2ce459c6.webp",
+    "thumb": "/assets/academy/3849d52c2ce459c6-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_07.jpg": {
+    "full": "/assets/academy/6cfc1ab1d47b918f.webp",
+    "thumb": "/assets/academy/6cfc1ab1d47b918f-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_09.jpg": {
+    "full": "/assets/academy/dad3a97c09955d02.webp",
+    "thumb": "/assets/academy/dad3a97c09955d02-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_06.jpg": {
+    "full": "/assets/academy/65f7869da346a4d4.webp",
+    "thumb": "/assets/academy/65f7869da346a4d4-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_11.jpg": {
+    "full": "/assets/academy/b01e7283f6fee4ce.webp",
+    "thumb": "/assets/academy/b01e7283f6fee4ce-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_104.jpg": {
+    "full": "/assets/academy/35e2af785b16cf54.webp",
+    "thumb": "/assets/academy/35e2af785b16cf54-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_109.jpg": {
+    "full": "/assets/academy/260a581e34e85757.webp",
+    "thumb": "/assets/academy/260a581e34e85757-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_108.jpg": {
+    "full": "/assets/academy/6f3db01b8ff634de.webp",
+    "thumb": "/assets/academy/6f3db01b8ff634de-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_110.jpg": {
+    "full": "/assets/academy/e56fdc7c35b790a5.webp",
+    "thumb": "/assets/academy/e56fdc7c35b790a5-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_106.jpg": {
+    "full": "/assets/academy/8bf1955d4b620c5f.webp",
+    "thumb": "/assets/academy/8bf1955d4b620c5f-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_112.jpg": {
+    "full": "/assets/academy/3dae650f81ac3ee0.webp",
+    "thumb": "/assets/academy/3dae650f81ac3ee0-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_107.jpg": {
+    "full": "/assets/academy/f62015a9c8983a19.webp",
+    "thumb": "/assets/academy/f62015a9c8983a19-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_105.jpg": {
+    "full": "/assets/academy/51c8213a297d6135.webp",
+    "thumb": "/assets/academy/51c8213a297d6135-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_111.jpg": {
+    "full": "/assets/academy/6f8c8fe159811d2c.webp",
+    "thumb": "/assets/academy/6f8c8fe159811d2c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_116.jpg": {
+    "full": "/assets/academy/7509812231c2bdfc.webp",
+    "thumb": "/assets/academy/7509812231c2bdfc-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_119.jpg": {
+    "full": "/assets/academy/eb411d42c797f916.webp",
+    "thumb": "/assets/academy/eb411d42c797f916-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_115.jpg": {
+    "full": "/assets/academy/764b6fadbb2e9e3c.webp",
+    "thumb": "/assets/academy/764b6fadbb2e9e3c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_113.jpg": {
+    "full": "/assets/academy/9e26c5c5e667c285.webp",
+    "thumb": "/assets/academy/9e26c5c5e667c285-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_120.jpg": {
+    "full": "/assets/academy/d971adaf399b2399.webp",
+    "thumb": "/assets/academy/d971adaf399b2399-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_118.jpg": {
+    "full": "/assets/academy/9537c0f9abd4412e.webp",
+    "thumb": "/assets/academy/9537c0f9abd4412e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_121.jpg": {
+    "full": "/assets/academy/3c1c1243ea01b908.webp",
+    "thumb": "/assets/academy/3c1c1243ea01b908-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_114.jpg": {
+    "full": "/assets/academy/1bb2b26427527aee.webp",
+    "thumb": "/assets/academy/1bb2b26427527aee-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_117.jpg": {
+    "full": "/assets/academy/3f5ccd2fee82b178.webp",
+    "thumb": "/assets/academy/3f5ccd2fee82b178-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_12.jpg": {
+    "full": "/assets/academy/a7daa19aba16b50d.webp",
+    "thumb": "/assets/academy/a7daa19aba16b50d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_123.jpg": {
+    "full": "/assets/academy/e27110259d072ace.webp",
+    "thumb": "/assets/academy/e27110259d072ace-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_130.jpg": {
+    "full": "/assets/academy/1b2d85b4a187a81a.webp",
+    "thumb": "/assets/academy/1b2d85b4a187a81a-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_127.jpg": {
+    "full": "/assets/academy/ffed5cc209f65049.webp",
+    "thumb": "/assets/academy/ffed5cc209f65049-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_128.jpg": {
+    "full": "/assets/academy/c236d56be69831d4.webp",
+    "thumb": "/assets/academy/c236d56be69831d4-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_126.jpg": {
+    "full": "/assets/academy/4a6ca925b6b484a4.webp",
+    "thumb": "/assets/academy/4a6ca925b6b484a4-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_124.jpg": {
+    "full": "/assets/academy/d11e682a2025bbeb.webp",
+    "thumb": "/assets/academy/d11e682a2025bbeb-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_122.jpg": {
+    "full": "/assets/academy/dd3e69dd0cb5b35f.webp",
+    "thumb": "/assets/academy/dd3e69dd0cb5b35f-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_13.jpg": {
+    "full": "/assets/academy/83121c55e4f2318b.webp",
+    "thumb": "/assets/academy/83121c55e4f2318b-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_125.jpg": {
+    "full": "/assets/academy/48be9530f5874c13.webp",
+    "thumb": "/assets/academy/48be9530f5874c13-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_129.jpg": {
+    "full": "/assets/academy/a1cdf68d4968995c.webp",
+    "thumb": "/assets/academy/a1cdf68d4968995c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_139.jpg": {
+    "full": "/assets/academy/9180a091ffa93228.webp",
+    "thumb": "/assets/academy/9180a091ffa93228-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_134.jpg": {
+    "full": "/assets/academy/3c432037b32c8df8.webp",
+    "thumb": "/assets/academy/3c432037b32c8df8-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_136.jpg": {
+    "full": "/assets/academy/3914fdc3591f6bb0.webp",
+    "thumb": "/assets/academy/3914fdc3591f6bb0-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_132.jpg": {
+    "full": "/assets/academy/d75e2fa1b4024169.webp",
+    "thumb": "/assets/academy/d75e2fa1b4024169-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_131.jpg": {
+    "full": "/assets/academy/95349f56ddb401ac.webp",
+    "thumb": "/assets/academy/95349f56ddb401ac-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_137.jpg": {
+    "full": "/assets/academy/6e7d4a083da3b4de.webp",
+    "thumb": "/assets/academy/6e7d4a083da3b4de-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_133.jpg": {
+    "full": "/assets/academy/74ba82300b59022e.webp",
+    "thumb": "/assets/academy/74ba82300b59022e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_138.jpg": {
+    "full": "/assets/academy/a9597c83606ad6af.webp",
+    "thumb": "/assets/academy/a9597c83606ad6af-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_14.jpg": {
+    "full": "/assets/academy/749edbd2273ad833.webp",
+    "thumb": "/assets/academy/749edbd2273ad833-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_135.jpg": {
+    "full": "/assets/academy/8344ac1404b80a53.webp",
+    "thumb": "/assets/academy/8344ac1404b80a53-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_140.jpg": {
+    "full": "/assets/academy/d0076bf543ee160d.webp",
+    "thumb": "/assets/academy/d0076bf543ee160d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_149.jpg": {
+    "full": "/assets/academy/6f495b33da8c9664.webp",
+    "thumb": "/assets/academy/6f495b33da8c9664-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_146.jpg": {
+    "full": "/assets/academy/9e8d498db9ccbe0e.webp",
+    "thumb": "/assets/academy/9e8d498db9ccbe0e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_148.jpg": {
+    "full": "/assets/academy/7b3e25782854f75e.webp",
+    "thumb": "/assets/academy/7b3e25782854f75e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_147.jpg": {
+    "full": "/assets/academy/f81598deb7e22b84.webp",
+    "thumb": "/assets/academy/f81598deb7e22b84-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_142.jpg": {
+    "full": "/assets/academy/ad05a425fe02fc6d.webp",
+    "thumb": "/assets/academy/ad05a425fe02fc6d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_145.jpg": {
+    "full": "/assets/academy/e7dec737f6df25e1.webp",
+    "thumb": "/assets/academy/e7dec737f6df25e1-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_141.jpg": {
+    "full": "/assets/academy/1bc35fdfbe2e8db5.webp",
+    "thumb": "/assets/academy/1bc35fdfbe2e8db5-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_143.jpg": {
+    "full": "/assets/academy/8737d9ee772fbef7.webp",
+    "thumb": "/assets/academy/8737d9ee772fbef7-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_144.jpg": {
+    "full": "/assets/academy/867c2f29df280cf3.webp",
+    "thumb": "/assets/academy/867c2f29df280cf3-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_153.jpg": {
+    "full": "/assets/academy/55adf380656f2e84.webp",
+    "thumb": "/assets/academy/55adf380656f2e84-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_16.jpg": {
+    "full": "/assets/academy/1aff9f6b9f71e943.webp",
+    "thumb": "/assets/academy/1aff9f6b9f71e943-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_18.jpg": {
+    "full": "/assets/academy/ffe6424ab523177a.webp",
+    "thumb": "/assets/academy/ffe6424ab523177a-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_20.jpg": {
+    "full": "/assets/academy/cbf18a8a6491c928.webp",
+    "thumb": "/assets/academy/cbf18a8a6491c928-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_19.jpg": {
+    "full": "/assets/academy/5cfc8fac6dcadd6d.webp",
+    "thumb": "/assets/academy/5cfc8fac6dcadd6d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_15.jpg": {
+    "full": "/assets/academy/6d67d723ba7dd8bf.webp",
+    "thumb": "/assets/academy/6d67d723ba7dd8bf-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_17.jpg": {
+    "full": "/assets/academy/3feb6aaadf09174f.webp",
+    "thumb": "/assets/academy/3feb6aaadf09174f-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_151.jpg": {
+    "full": "/assets/academy/a1c967c46dd21c6d.webp",
+    "thumb": "/assets/academy/a1c967c46dd21c6d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_150.jpg": {
+    "full": "/assets/academy/82772e1f5af5c9d8.webp",
+    "thumb": "/assets/academy/82772e1f5af5c9d8-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_152.jpg": {
+    "full": "/assets/academy/84b62d6ee246d104.webp",
+    "thumb": "/assets/academy/84b62d6ee246d104-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_28.jpg": {
+    "full": "/assets/academy/fda62d0c42f5bab9.webp",
+    "thumb": "/assets/academy/fda62d0c42f5bab9-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_30.jpg": {
+    "full": "/assets/academy/3df5c9fb877c6ea0.webp",
+    "thumb": "/assets/academy/3df5c9fb877c6ea0-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_29.jpg": {
+    "full": "/assets/academy/dc9688602960359c.webp",
+    "thumb": "/assets/academy/dc9688602960359c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_21.jpg": {
+    "full": "/assets/academy/eb2144d52e350ee2.webp",
+    "thumb": "/assets/academy/eb2144d52e350ee2-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_26.jpg": {
+    "full": "/assets/academy/ac3e91b5d60bd28d.webp",
+    "thumb": "/assets/academy/ac3e91b5d60bd28d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_22.jpg": {
+    "full": "/assets/academy/b9d4bd93dcb6a11d.webp",
+    "thumb": "/assets/academy/b9d4bd93dcb6a11d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_23.jpg": {
+    "full": "/assets/academy/afbe43cc1ecf687f.webp",
+    "thumb": "/assets/academy/afbe43cc1ecf687f-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_24.jpg": {
+    "full": "/assets/academy/d242f372624854ba.webp",
+    "thumb": "/assets/academy/d242f372624854ba-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_25.jpg": {
+    "full": "/assets/academy/cece8309a4c00dc2.webp",
+    "thumb": "/assets/academy/cece8309a4c00dc2-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_27.jpg": {
+    "full": "/assets/academy/1cd4119154744693.webp",
+    "thumb": "/assets/academy/1cd4119154744693-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_37.jpg": {
+    "full": "/assets/academy/5e0e4b4622addd55.webp",
+    "thumb": "/assets/academy/5e0e4b4622addd55-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_36.jpg": {
+    "full": "/assets/academy/a72e72fc28c07285.webp",
+    "thumb": "/assets/academy/a72e72fc28c07285-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_32.jpg": {
+    "full": "/assets/academy/c6ec2f4a52ef6e97.webp",
+    "thumb": "/assets/academy/c6ec2f4a52ef6e97-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_35.jpg": {
+    "full": "/assets/academy/392c870c3e5ca9dd.webp",
+    "thumb": "/assets/academy/392c870c3e5ca9dd-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_34-e1781362030379-400x300.jpg": {
+    "full": "/assets/academy/c8cd02282d9ad17f.webp",
+    "thumb": "/assets/academy/c8cd02282d9ad17f-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_38.jpg": {
+    "full": "/assets/academy/fd79ea7ac14b525e.webp",
+    "thumb": "/assets/academy/fd79ea7ac14b525e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_39.jpg": {
+    "full": "/assets/academy/29c6c96294ed9cd1.webp",
+    "thumb": "/assets/academy/29c6c96294ed9cd1-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_34-e1781362030379.jpg": {
+    "full": "/assets/academy/b8c6b578cc408a9e.webp",
+    "thumb": "/assets/academy/b8c6b578cc408a9e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_31.jpg": {
+    "full": "/assets/academy/3be6f75f3b724e9c.webp",
+    "thumb": "/assets/academy/3be6f75f3b724e9c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_3rd_chess_festival_33.jpg": {
+    "full": "/assets/academy/94cbb2fdee2576d5.webp",
+    "thumb": "/assets/academy/94cbb2fdee2576d5-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_elaraby_ewsna_06-800x600.jpg": {
+    "full": "/assets/academy/a254002600f4ba8b.webp",
+    "thumb": "/assets/academy/a254002600f4ba8b-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_elaraby_ewsna_09-800x600.jpg": {
+    "full": "/assets/academy/d2dd934ed8a466e5.webp",
+    "thumb": "/assets/academy/d2dd934ed8a466e5-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_elaraby_masrelgedida_01.jpg": {
+    "full": "/assets/academy/3f131ebcf523794d.webp",
+    "thumb": "/assets/academy/3f131ebcf523794d-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_elaraby_ewsna_01.jpg": {
+    "full": "/assets/academy/1478a380dc2c1645.webp",
+    "thumb": "/assets/academy/1478a380dc2c1645-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2026_portsaid_01.jpg": {
+    "full": "/assets/academy/110404b9a9c6fce1.webp",
+    "thumb": "/assets/academy/110404b9a9c6fce1-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2025_elaraby_masrelgedida_07-800x600.jpg": {
+    "full": "/assets/academy/74d3cbff5d7457f2.webp",
+    "thumb": "/assets/academy/74d3cbff5d7457f2-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2026_portsaid_55-800x600.jpg": {
+    "full": "/assets/academy/ccd0b82b23e4e006.webp",
+    "thumb": "/assets/academy/ccd0b82b23e4e006-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_africa_2023_04-800x600.jpg": {
+    "full": "/assets/academy/feabfae190e0a6ba.webp",
+    "thumb": "/assets/academy/feabfae190e0a6ba-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2026_sheraton_103-800x600.jpg": {
+    "full": "/assets/academy/dd51607ba0e0aff8.webp",
+    "thumb": "/assets/academy/dd51607ba0e0aff8-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_africa_2023_01.jpg": {
+    "full": "/assets/academy/72cf324a3772f108.webp",
+    "thumb": "/assets/academy/72cf324a3772f108-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_expo_01.jpg": {
+    "full": "/assets/academy/61d7d6c93bf276b9.webp",
+    "thumb": "/assets/academy/61d7d6c93bf276b9-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_2026_sheraton_01.jpg": {
+    "full": "/assets/academy/75a5ce1eedde6a2b.webp",
+    "thumb": "/assets/academy/75a5ce1eedde6a2b-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_expo_02-e1778588855255-400x300.jpg": {
+    "full": "/assets/academy/ca0fcd4ebf9f4608.webp",
+    "thumb": "/assets/academy/ca0fcd4ebf9f4608-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_heliopolis_2025_14-800x600.jpg": {
+    "full": "/assets/academy/5141fc31976e998b.webp",
+    "thumb": "/assets/academy/5141fc31976e998b-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Asmaa.png": {
+    "full": "/assets/academy/f25b5b462a054e83.webp",
+    "thumb": "/assets/academy/f25b5b462a054e83-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_expo_07-e1778600684798-400x300.jpg": {
+    "full": "/assets/academy/6197a3f5602db7c6.webp",
+    "thumb": "/assets/academy/6197a3f5602db7c6-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Adly_heliopolis_2025_01.jpg": {
+    "full": "/assets/academy/6fb4c1b8bc39e169.webp",
+    "thumb": "/assets/academy/6fb4c1b8bc39e169-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Antonious-Nicola-scaled-e1778573676292.jpg": {
+    "full": "/assets/academy/135ea0ef7ba57f21.webp",
+    "thumb": "/assets/academy/135ea0ef7ba57f21-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Fady-Magdy.jpeg": {
+    "full": "/assets/academy/a07730d4d87258b8.webp",
+    "thumb": "/assets/academy/a07730d4d87258b8-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Mohamed-ibrahim-e1778573500748.jpeg": {
+    "full": "/assets/academy/98ff375e7deefa9c.webp",
+    "thumb": "/assets/academy/98ff375e7deefa9c-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Moustafa-Elwan.jpeg": {
+    "full": "/assets/academy/871f0a4af7cca388.webp",
+    "thumb": "/assets/academy/871f0a4af7cca388-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Kirolos.jpg": {
+    "full": "/assets/academy/73390f5c70f5c6f9.webp",
+    "thumb": "/assets/academy/73390f5c70f5c6f9-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Mina.jpg": {
+    "full": "/assets/academy/f083eb829e65aae2.webp",
+    "thumb": "/assets/academy/f083eb829e65aae2-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Nirvana.jpg": {
+    "full": "/assets/academy/226c9ee9626b3132.webp",
+    "thumb": "/assets/academy/226c9ee9626b3132-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Omar-Farouk.jpeg": {
+    "full": "/assets/academy/cbc47c040ebd2e91.webp",
+    "thumb": "/assets/academy/cbc47c040ebd2e91-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Zeyad-Gouda.jpeg": {
+    "full": "/assets/academy/992d4f3636030856.webp",
+    "thumb": "/assets/academy/992d4f3636030856-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/esraa.jpg": {
+    "full": "/assets/academy/8fc8cdd2bd9771c9.webp",
+    "thumb": "/assets/academy/8fc8cdd2bd9771c9-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Sara-Magdy-e1778573717332.jpeg": {
+    "full": "/assets/academy/174722f4f14e5a16.webp",
+    "thumb": "/assets/academy/174722f4f14e5a16-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/Sara-Abo-sedairy.jpeg": {
+    "full": "/assets/academy/a3026eb34262621e.webp",
+    "thumb": "/assets/academy/a3026eb34262621e-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/basm-hassan.jpeg": {
+    "full": "/assets/academy/dfa723c9c96fc419.webp",
+    "thumb": "/assets/academy/dfa723c9c96fc419-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/haneen.jpg": {
+    "full": "/assets/academy/d7bb974bc8621bea.webp",
+    "thumb": "/assets/academy/d7bb974bc8621bea-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/05/Mai.jpeg": {
+    "full": "/assets/academy/5adb0dd8d43cb72f.webp",
+    "thumb": "/assets/academy/5adb0dd8d43cb72f-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/malak.jpg": {
+    "full": "/assets/academy/ed82a5cbf53fb058.webp",
+    "thumb": "/assets/academy/ed82a5cbf53fb058-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/04/moahmed-saber.jpeg": {
+    "full": "/assets/academy/26c76f69449a6daf.webp",
+    "thumb": "/assets/academy/26c76f69449a6daf-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/05/expo4-scaled.jpg": {
+    "full": "/assets/academy/57fdd9b29dde37ba.webp",
+    "thumb": "/assets/academy/57fdd9b29dde37ba-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/05/Expo-9.jpg": {
+    "full": "/assets/academy/351007b9c2020ff4.webp",
+    "thumb": "/assets/academy/351007b9c2020ff4-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/06/micheal-shawky-scaled-600x900-1.jpg": {
+    "full": "/assets/academy/8846328ff9576b80.webp",
+    "thumb": "/assets/academy/8846328ff9576b80-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/05/\u0648\u0641\u0627\u0621-scaled-e1778573460155.jpg": {
+    "full": "/assets/academy/ab76a60764b53a11.webp",
+    "thumb": "/assets/academy/ab76a60764b53a11-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/05/\u0628\u062f\u0648\u064a.jpeg": {
+    "full": "/assets/academy/291efadd099ecad1.webp",
+    "thumb": "/assets/academy/291efadd099ecad1-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/05/\u0641\u0627\u0637\u0645\u0629.jpeg": {
+    "full": "/assets/academy/d0ca876c3ebcdfb1.webp",
+    "thumb": "/assets/academy/d0ca876c3ebcdfb1-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/05/\u0633\u064a\u062f.jpeg": {
+    "full": "/assets/academy/d6b57a7bb5a57dd5.webp",
+    "thumb": "/assets/academy/d6b57a7bb5a57dd5-thumb.webp"
+  },
+  "https://adlychess.com/wp-content/uploads/2026/06/ramadam26.jpg": {
+    "full": "/assets/academy/90b6238bd3e5e487.webp",
+    "thumb": "/assets/academy/90b6238bd3e5e487-thumb.webp"
+  }
+}

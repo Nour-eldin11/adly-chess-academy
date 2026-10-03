@@ -1,0 +1,396 @@
+[
+  {
+    "name": "FIDE Championship Chess Clock Limited Edition DGT3000",
+    "url": "https://adlychess.com/shop/chess-clocks/fide-championship-clock-limited-edition-dgt3000/",
+    "price": 4900.0,
+    "oldPrice": 5200.0,
+    "categories": [
+      "chess-clocks"
+    ],
+    "image": "assets/71Zc37nlASL._AC_SL1500s_.jpg",
+    "images": [
+      "assets/71Zc37nlASL._AC_SL1500s_.jpg",
+      "assets/71hIu0L3LhL._AC_SL1500_.jpg"
+    ],
+    "description": "This is a rare, luxury edition of the world’s best chess clock. It combines advanced technology with an elegant design."
+  },
+  {
+    "name": "DGT3000 The FIDE Championship Clock",
+    "url": "https://adlychess.com/shop/chess-clocks/dgt3000-the-fide-championship-clock/",
+    "price": 4550.0,
+    "oldPrice": 4700.0,
+    "categories": [
+      "chess-clocks"
+    ],
+    "image": "assets/dgt-3000s.jpg",
+    "images": [
+      "assets/dgt-3000s.jpg",
+      "assets/dgt-3000-2.jpg",
+      "assets/dgt-3000-5.jpg",
+      "assets/dgt-3000-4.jpg",
+      "assets/dgt-3000-3.jpg"
+    ],
+    "description": "A professional clock with a big, clear screen and cutting-edge features for players who demand the best."
+  },
+  {
+    "name": "DGT2010 Official FIDE Chess Clock",
+    "url": "https://adlychess.com/shop/chess-clocks/dgt2010-official-fide-chess-clock/",
+    "price": 4300.0,
+    "oldPrice": 4500.0,
+    "categories": [
+      "chess-clocks"
+    ],
+    "image": "assets/dgt-2010.jpg",
+    "images": [
+      "assets/dgt-2010.jpg"
+    ],
+    "description": "The official, reliable chess clock trusted by tournaments everywhere. It’s built simply and tough for serious play."
+  },
+  {
+    "name": "LEAP PQ9903A Chess Clock",
+    "url": "https://adlychess.com/shop/chess-clocks/leap-pq9903a-chess-clock/",
+    "price": 2200.0,
+    "oldPrice": 2420.0,
+    "categories": [
+      "chess-clocks"
+    ],
+    "image": "assets/LEAP-PQ9903As.jpg",
+    "images": [
+      "assets/LEAP-PQ9903As.jpg",
+      "assets/LEAP-PQ9903A-2.jpg",
+      "assets/LEAP-PQ9903A-5.jpg",
+      "assets/LEAP-PQ9903A-4.jpg",
+      "assets/LEAP-PQ9903A-3.jpg"
+    ],
+    "description": "Pro quality, beginner price. Get the accurate, durable, and stylish clock you can trust for every game."
+  },
+  {
+    "name": "Wooden Chess Board",
+    "url": "https://adlychess.com/shop/chess-boards/wooden-chess-board/",
+    "price": 4000.0,
+    "oldPrice": 4500.0,
+    "categories": [
+      "chess-boards"
+    ],
+    "image": "assets/wooden-board.jpg",
+    "images": [
+      "assets/wooden-board.jpg"
+    ],
+    "description": "Size: 54 × 54 cm Board Material: Imported 16 mm Plywood Outer Frame: Beech Wood Board Colors: Brown & Beige Number of Squares: 64 squares (8×8) Suitable for home use and tournaments Elegant design with high-quality finishing Easy to carry and store Compatible with standard chess pieces"
+  },
+  {
+    "name": "Chess Set",
+    "url": "https://adlychess.com/shop/chess-boards/chess-set/",
+    "price": 500.0,
+    "oldPrice": 750.0,
+    "categories": [
+      "chess-boards"
+    ],
+    "image": "assets/Chess-Set.jpg",
+    "images": [
+      "assets/Chess-Set.jpg",
+      "assets/Chess-Set-1.jpg",
+      "assets/Chess-Set-5.jpg",
+      "assets/Chess-Set-4.jpg",
+      "assets/Chess-Set-3.jpg",
+      "assets/Chess-Set-2.jpg"
+    ],
+    "description": "A complete and elegant chess set at an affordable price. Perfect for learning, practice, or display at home."
+  },
+  {
+    "name": "Chess T-Shirt",
+    "url": "https://adlychess.com/shop/chess-merchandise/chess-t-shirt/",
+    "price": 300.0,
+    "oldPrice": 330.0,
+    "categories": [
+      "chess-merchandise"
+    ],
+    "image": "assets/Chess-T-Shirt-1.jpg",
+    "images": [
+      "assets/Chess-T-Shirt-1.jpg",
+      "assets/Chess-T-Shirt-2.jpg",
+      "assets/Chess-T-Shirt-7.jpeg"
+    ],
+    "description": "Trendy and comfortable T-shirt with chess graphics. Wear your passion proudly wherever you go."
+  },
+  {
+    "name": "Chess Cards",
+    "url": "https://adlychess.com/shop/chess-merchandise/chess-cards/",
+    "price": 200.0,
+    "oldPrice": 220.0,
+    "categories": [
+      "chess-merchandise"
+    ],
+    "image": "assets/chess-opening-playing-cards.jpg",
+    "images": [
+      "assets/chess-opening-playing-cards.jpg",
+      "assets/chess-opening-playing-cards-4.jpg",
+      "assets/chess-opening-playing-cards-3.jpg",
+      "assets/chess-opening-playing-cards-2.jpg"
+    ],
+    "description": "A beautifully illustrated deck with chess artwork. Adds creativity and sophistication to card games."
+  },
+  {
+    "name": "Chess Thermal Mug",
+    "url": "https://adlychess.com/shop/chess-merchandise/chess-thermal-mug/",
+    "price": 200.0,
+    "oldPrice": 220.0,
+    "categories": [
+      "chess-merchandise"
+    ],
+    "image": "assets/thermal-mug-1.jpg",
+    "images": [
+      "assets/thermal-mug-1.jpg"
+    ],
+    "description": "Keeps drinks hot or cold for hours on the go. A stylish design for chess lovers who travel."
+  },
+  {
+    "name": "Adly waist bag",
+    "url": "https://adlychess.com/shop/chess-merchandise/adly-waist-bag/",
+    "price": 100.0,
+    "oldPrice": 120.0,
+    "categories": [
+      "chess-merchandise"
+    ],
+    "image": "assets/Adly-waist-bag.jpg",
+    "images": [
+      "assets/Adly-waist-bag.jpg"
+    ],
+    "description": "ADLY Chess Academy Fanny Pack. Durable black waist bag featuring the gold ADLY logo. The perfect hands-free way to carry your tournament essentials."
+  },
+  {
+    "name": "Chess Mug",
+    "url": "https://adlychess.com/shop/chess-merchandise/chess-mug/",
+    "price": 120.0,
+    "oldPrice": 150.0,
+    "categories": [
+      "chess-merchandise"
+    ],
+    "image": "assets/chess-mug-3.jpg",
+    "images": [
+      "assets/chess-mug-3.jpg",
+      "assets/chess-mug-2.jpg",
+      "assets/chess-mug-1.jpg",
+      "assets/chess-mug-6.jpeg",
+      "assets/chess-mug-5.jpg",
+      "assets/chess-mug-4.jpg"
+    ],
+    "description": "Stylish mug with a unique chess-themed design. Makes your coffee breaks bold and elegant."
+  },
+  {
+    "name": "3 Mugs Offer",
+    "url": "https://adlychess.com/shop/special-offers/3-mugs-offer/",
+    "price": 300.0,
+    "oldPrice": 360.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/3mugs.jpg",
+    "images": [
+      "assets/3mugs.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "name": "Adly water bottle",
+    "url": "https://adlychess.com/shop/chess-merchandise/adly-water-bottle/",
+    "price": 80.0,
+    "oldPrice": 100.0,
+    "categories": [
+      "chess-merchandise"
+    ],
+    "image": "assets/Adly-water-bottle.jpg",
+    "images": [
+      "assets/Adly-water-bottle.jpg"
+    ],
+    "description": "ADLY Hydration Bottle. Stay sharp and focused with the official ADLY Chess Academy water bottle. Durable, spill-proof, and essential for tournaments or training."
+  },
+  {
+    "name": "Coaster",
+    "url": "https://adlychess.com/shop/chess-merchandise/coaster/",
+    "price": 20.0,
+    "oldPrice": 25.0,
+    "categories": [
+      "chess-merchandise"
+    ],
+    "image": "assets/Coasters.jpg",
+    "images": [
+      "assets/Coasters.jpg",
+      "assets/coaster-3.jpg",
+      "assets/coaster-2.jpg",
+      "assets/coaster-1.jpg",
+      "assets/coaster-6.jpg",
+      "assets/coaster-5.jpg",
+      "assets/coaster-4.jpg"
+    ],
+    "description": "Protect your table in style with a chess-inspired coaster. Durable, chic, and adds elegance to any setting."
+  },
+  {
+    "name": "Coaster Set (4 Pcs)",
+    "url": "https://adlychess.com/shop/special-offers/coaster-set-4-pcs/",
+    "price": 60.0,
+    "oldPrice": 100.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/Coasters.jpg",
+    "images": [
+      "assets/Coasters.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "name": "1 Mug + Coaster Offer",
+    "url": "https://adlychess.com/shop/special-offers/test-bundle/",
+    "price": 140.0,
+    "oldPrice": 170.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/mug-coaster-1.jpg",
+    "images": [
+      "assets/mug-coaster-1.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "name": "Themed bundle for your home or café",
+    "url": "https://adlychess.com/shop/special-offers/themed-bundle-for-your-home-or-cafe/",
+    "price": 220.0,
+    "oldPrice": 300.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/bundle-cafe.jpg",
+    "images": [
+      "assets/bundle-cafe.jpg"
+    ],
+    "description": "Package includes: 2 Coaster 2 Chess Mug"
+  },
+  {
+    "name": "Comprehensive gift bundle for chess lovers",
+    "url": "https://adlychess.com/shop/special-offers/comprehensive-gift-bundle-for-chess-lovers/",
+    "price": 2900.0,
+    "oldPrice": 3500.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/bundle-gift.jpg",
+    "images": [
+      "assets/bundle-gift.jpg"
+    ],
+    "description": "Package includes: New Leap Chess Clock Chess Set T-shirt 2 Coasters Chess Mug"
+  },
+  {
+    "name": "Premium all-in-one package for professional players",
+    "url": "https://adlychess.com/shop/special-offers/premium-all-in-one-package-for-professional-players/",
+    "price": 2800.0,
+    "oldPrice": 3200.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/bundle-premium.jpg",
+    "images": [
+      "assets/bundle-premium.jpg"
+    ],
+    "description": "Package includes: New Leap Chess Clock Chess Set Thermal Mug T-shirt"
+  },
+  {
+    "name": "Balanced set mixing functionality and fun",
+    "url": "https://adlychess.com/shop/special-offers/balanced-set-mixing-functionality-and-fun/",
+    "price": 950.0,
+    "oldPrice": 1200.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/bundle-balanced.jpg",
+    "images": [
+      "assets/bundle-balanced.jpg"
+    ],
+    "description": "Package includes: Chess Set Thermal Mug T-shirt"
+  },
+  {
+    "name": "Affordable and visually appealing gift option",
+    "url": "https://adlychess.com/shop/special-offers/affordable-and-visually-appealing-gift-option/",
+    "price": 850.0,
+    "oldPrice": 1200.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/bundle-affordable.jpg",
+    "images": [
+      "assets/bundle-affordable.jpg"
+    ],
+    "description": "Package includes: Chess Set T-shirt 2 Coasters Chess Mug"
+  },
+  {
+    "name": "Three T-shirts",
+    "url": "https://adlychess.com/shop/special-offers/three-t-shirts/",
+    "price": 700.0,
+    "oldPrice": 900.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/3-t-shirts.jpg",
+    "images": [
+      "assets/3-t-shirts.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "name": "Two T-shirts",
+    "url": "https://adlychess.com/shop/special-offers/two-t-shirts/",
+    "price": 500.0,
+    "oldPrice": 600.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/2-t-shirts.jpg",
+    "images": [
+      "assets/2-t-shirts.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "name": "Simple and trendy gift for chess fans",
+    "url": "https://adlychess.com/shop/special-offers/simple-and-trendy-gift-for-chess-fans/",
+    "price": 350.0,
+    "oldPrice": 500.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/bundle-simple.jpg",
+    "images": [
+      "assets/bundle-simple.jpg"
+    ],
+    "description": "Package includes: T-shirt Chess Mug"
+  },
+  {
+    "name": "Stylish everyday combo",
+    "url": "https://adlychess.com/shop/special-offers/stylish-everyday-combo/",
+    "price": 400.0,
+    "oldPrice": 500.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/bundle-stylish.jpg",
+    "images": [
+      "assets/bundle-stylish.jpg"
+    ],
+    "description": "Package includes: Thermal Mug T-shirt"
+  },
+  {
+    "name": "Small bundle for casual buyers and seasonal promotions",
+    "url": "https://adlychess.com/shop/special-offers/small-bundle-for-casual-buyers-and-seasonal-promotions/",
+    "price": 600.0,
+    "oldPrice": 800.0,
+    "categories": [
+      "special-offers"
+    ],
+    "image": "assets/bundle-casual.jpg",
+    "images": [
+      "assets/bundle-casual.jpg"
+    ],
+    "description": "Package includes: Thermal Mug T-shirt Coaster Chess Mug"
+  }
+]
